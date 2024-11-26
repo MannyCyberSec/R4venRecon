@@ -4,6 +4,8 @@ RavenRecon is a personalized fork of the R4VEN tool, designed as a Proof of Conc
 
 <h4 align="center"> This tool is for Educational and Research Purposes Only. </h4>
 
+Using this tool, you can find out what information a malicious website can gather about you and your devices and why you shouldn't click on random links or grant permissions like Location to them.
+
 ### 🌟 Key Features :
 
 - IP address and geographic location tracking
@@ -22,17 +24,17 @@ RavenRecon is a personalized fork of the R4VEN tool, designed as a Proof of Conc
 ---
 ### 📍 Goals:
 R4venRecon aims to:
-Enhance understanding of cyber reconnaissance techniques.
-Provide hands-on learning with ethical and legal cybersecurity tools.
-Serve as a personalized project for showcasing technical skills.
+-Enhance understanding of cyber reconnaissance techniques.
+-Provide hands-on learning with ethical and legal cybersecurity tools.
+-Serve as a personalized project for showcasing technical skills.
 
 ---
 ### 🔑 Key Changes from the Original:
 
-Improved user interface for a better experience.
-Custom data formatting for easier analysis.
-Enhanced error handling and feedback mechanisms.
-Expanded documentation for transparency and usability.
+-Improved user interface for a better experience.
+-Custom data formatting for easier analysis.
+-Enhanced error handling and feedback mechanisms.
+-Expanded documentation for transparency and usability.
 
 ---
 
@@ -44,9 +46,9 @@ Expanded documentation for transparency and usability.
 ! If camera permission is allowed, it will capture non-stop from the front camera.
 ```
 ### 🚨 Limitations:
-Port Forwarding Required: Ensure external access for mobile browsers.
-Browser Restrictions: Not all browsers (e.g., Safari) support permissions required for GPS or camera access.
-Device Limitations: Requires devices with GPS and camera capabilities.
+- Port Forwarding Required: Ensure external access for mobile browsers.
+- Browser Restrictions: Not all browsers (e.g., Safari) support permissions required for GPS or camera access.
+- Device Limitations: Requires devices with GPS and camera capabilities.
 
 ### IP location VS. GPS location
 
