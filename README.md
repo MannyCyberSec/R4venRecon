@@ -24,7 +24,7 @@ RavenRecon is a personalized fork of the R4VEN tool, designed as a Proof of Conc
 R4venRecon aims to:
 Enhance understanding of cyber reconnaissance techniques.
 Provide hands-on learning with ethical and legal cybersecurity tools.
-Serve as a personalized project for showcasing technical skills to employers and collaborators.
+Serve as a personalized project for showcasing technical skills.
 
 ---
 ### 🔑 Key Changes from the Original:
